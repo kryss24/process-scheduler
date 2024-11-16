@@ -1,5 +1,6 @@
  pour la priorite avec preemtion , j'ai decide plutot de faire la priorite non premmtive l'algoritheme execute le processus avec la plus grande priotite si 2 processus ont la meme priorite alors on utilse 
  le fcfs pour executer
+ voici l'algorithme ici mais lorsque j'execute dans le code principale je rencontre tellement d'erreur
  
 i1 lorsque j'ai fait le priote sans preemtion apres avoir corriger les erreus  des que je coche cette option l'application se ferme
 i2 on voit que toute la grille ne s'affichce pas c'est comme si c'etait bloque
